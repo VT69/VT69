@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @VT69
-- 👀 I’m interested in Web Dev, DSA, AI, ML & Web 3 Space
-- 🌱 I’m currently learning Web Development & DSA
-- 💞️ I’m open to collaborate for projects
-- 📫 How to reach me : vaibhavtiwari159@gmail.com
-
-<!---
-VT69/VT69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I am Vaibhav :)
+  
+- AI/ML-focused Computer Science undergraduate specializing in financial time-series analysis, sentiment-driven market prediction, and applied machine learning. Experienced in building end-
+  to-end ML pipelines involving data collection, feature engineering, model development, and evaluation using real-world financial data. Strong foundation in Python, statistics, and deep
+  learning, with a growing research interest in AI applications for markets, risk analysis, and decision-making systems.
+  
+- 📫 How to reach me: vaibhavtiwari159@gmail.com
