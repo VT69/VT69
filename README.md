@@ -1,5 +1,5 @@
 # About Me:
-👋 Hi, I am Vaibhav :)<br><br>AI/ML-focused Computer Science undergraduate specializing in financial time-series analysis, sentiment-driven market prediction, and applied machine learning. Experienced in building end- to-end ML pipelines involving data collection, feature engineering, model development, and evaluation using real-world financial data. Strong foundation in Python, statistics, and deep learning, with a growing research interest in AI applications for markets, risk analysis, and decision-making systems.<br><br>📫 How to reach me: vaibhavtiwari159@gmail.com
+👋 Hi, I am Vaibhav :)<br><br>AI/ML-focused Computer Science undergraduate specializing in financial time-series analysis, sentiment-driven market prediction, and applied machine learning. Experienced in building end- to-end ML pipelines involving data collection, feature engineering, model development, and evaluation using real-world financial data. Strong foundation in Python, statistics, and deep learning, with a growing research interest in AI applications for markets, risk analysis, and decision-making systems.<br><br>Here's my introductory video: https://youtube.com/shorts/GOl2rs5-bv4<br><br>📫 How to reach me: vaibhavtiwari159@gmail.com
 
 
 ## Socials:
