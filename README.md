@@ -1,12 +1,167 @@
-# About Me:
-👋 Hi, I am Vaibhav :)<br><br>AI/ML-focused Computer Science undergraduate specializing in financial time-series analysis, sentiment-driven market prediction, and applied machine learning. Experienced in building end- to-end ML pipelines involving data collection, feature engineering, model development, and evaluation using real-world financial data. Strong foundation in Python, statistics, and deep learning, with a growing research interest in AI applications for markets, risk analysis, and decision-making systems.<br><br>Here's my introductory video: https://youtube.com/shorts/GOl2rs5-bv4<br><br>📫 How to reach me: vaibhavtiwari159@gmail.com
+# <div align="center">🚀 Welcome to My GitHub</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there!+👋;I'm+Vaibhav+Tiwari;AI%2FML+CS+Undergraduate;Predictive+Modeling+%26+Markets" />
+</div>
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vt004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavtiwari159@gmail.com) 
-
-# Tech Stack:
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat-square&logo=javafx&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)
+<div align="center">
+  <!-- Note: Make sure you have a GitHub Action setup to generate this snake animation to an 'output' branch! -->
+  <img src="https://raw.githubusercontent.com/VT69/VT69/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VT69&icon=0&color=12)](https://visitcount.itsvg.in)
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="55%">
+
+```python
+class VaibhavTiwari:
+    def __init__(self):
+        self.role = "AI/ML-focused CS undergraduate"
+        self.education = "B.Tech CSE (AI/ML) @ VIT Bhopal"
+        self.focus = [
+            "Financial time-series analysis",
+            "Sentiment-driven market prediction",
+            "Applied machine learning"
+        ]
+        self.interests = "AI applications for markets & risk analysis"
+        self.contact = "vaibhavtiwari159@gmail.com"
+
+    def intro(self):
+        print("Always learning. Always building. 🚀")
+
+me = VaibhavTiwari()
+me.intro()
+```
+
+</td>
+
+<td width="45%">
+<div align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Current Focus
+
+* 📊 **Financial Time-Series Analysis & Volatility Modelling**
+* 🧠 **Sentiment-Driven Market Prediction** (NLP, FinBERT, Transformers)
+* 🚀 **End-to-End ML Pipelines** (Data collection, feature engineering, model development, deployment)
+* 📈 **Computer Vision in Finance** (YOLOv8, Multimodal Fusion)
+
+---
+
+## 🧠 Tech Stack
+
+### 🔹 Machine Learning & Data Science
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+
+### 🔹 Programming Languages
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### 🔹 Web & Frameworks
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🔹 Databases & Cloud
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🔹 Tools
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [**FinSentinel**](https://finsentinel.streamlit.app) | Interactive research platform quantifying market stress. Built a Global Market Stress Index (GMSI) using FinBERT, VADER, and Google Trends. | Python, Streamlit, FinBERT, VADER |
+| [**ExplainSentinel**](https://explainsentinel.streamlit.app) | Token-level interpretability for financial transformers. Reverse-engineered FinBERT decision pathways using Layer-12 self-attention heatmaps & LIME. | PyTorch, HuggingFace, LIME |
+| [**Kandls**](https://kandls.streamlit.app) | Financial chart understanding system. Fine-tuned YOLOv8n to detect candlestick patterns, fused with OHLCV data via Multimodal PyTorch MLP. | YOLOv8, PyTorch, CV |
+| [**Bitcoin Volatility Forecasting**](https://github.com/VT69) | Stacked ensemble regression model predicting Bitcoin volatility. Achieved R²=0.92 using RF + XGBoost with Optuna-guided hyperparameter search. | XGBoost, RF, Optuna, Scikit-learn |
+
+---
+
+## 🧪 Experience
+
+* **Software Engineering Intern — FOSSEE, IIT Bombay** *(Feb 2026 – Present)*
+  ▸ Selected to contribute to Osdag, an open-source structural analysis application deployed in Indian research institutions.
+  ▸ Refactored core Python modules, reducing cyclomatic complexity by ~30% and improving maintainability across a 50k+ line codebase.
+
+* **ML Research — Independent (Financial AI Systems)** *(Oct 2024 – Present)*
+  ▸ Designed, trained, and deployed three independent AI research systems spanning NLP, time series, and computer vision.
+  ▸ Submitted findings from FinSentinel research to Finance Research Letters; preparing second paper targeting Quantitative Finance.
+
+---
+
+## 📜 Certifications
+
+* **Stanford University / DeepLearning.AI**: Machine Learning Specialization (Supervised, Unsupervised, Advanced Learning Algorithms), Deep Learning Specialization 
+* **Google**: IT Support Specialization (Networking, OS, IT Security, SysAdmin)
+* **University of Michigan**: Applied Machine Learning in Python
+* **Amazon Web Services (AWS)**: Machine Learning Engineer - Associate
+* **Udemy**: Java 17 Masterclass, Complete Full-Stack Web Development Bootcamp
+
+---
+
+## 📊 GitHub Stats
+
+![Followers](https://img.shields.io/github/followers/VT69?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/VT69?style=for-the-badge)
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vt004)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VT69)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavtiwari159@gmail.com)
+[![YouTube Intro](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/GOl2rs5-bv4)
+
+<br>
+
+[![Visit Count](https://visitcount.itsvg.in/api?id=VT69&icon=0&color=12)](https://visitcount.itsvg.in)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Keep%20Learning%20🚀&fontSize=36"/>
+</div>
