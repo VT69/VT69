@@ -155,9 +155,6 @@ me.intro()
 [![YouTube Intro](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/GOl2rs5-bv4)
 
 <br>
-
-[![Visit Count](https://visitcount.itsvg.in/api?id=VT69&icon=0&color=12)](https://visitcount.itsvg.in)
-
 </div>
 
 ---
