@@ -1,7 +1,7 @@
 # <div align="center">🚀 Welcome to My GitHub</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there!+👋;I'm+Vaibhav+Tiwari;AI%2FML+CS+Undergraduate;Predictive+Modeling+%26+Markets" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there!+👋;I'm+Vaibhav+Tiwari;AI%2FML+CS+Undergraduate;Predictive+Modeling+%26+Markets" />
 </div>
 
 <div align="center">
@@ -130,12 +130,10 @@ me.intro()
 
 ## 📜 Certifications
 
-* **Stanford University / DeepLearning.AI**: Machine Learning Specialization (Supervised, Unsupervised, Advanced Learning Algorithms)
+* **Stanford University / DeepLearning.AI**: Machine Learning Specialization (Supervised, Unsupervised, Advanced Learning Algorithms), Deep Learning Specialization 
 * **Google**: IT Support Specialization (Networking, OS, IT Security, SysAdmin)
 * **University of Michigan**: Applied Machine Learning in Python
-* **Amazon Web Services (AWS)**: Machine Learning Foundations, Compute, Storage, Security
-* **NPTEL**: Cloud Computing, Introduction to Internet of Things
-* **Vityarthi**: Computer Vision
+* **Amazon Web Services (AWS)**: Machine Learning Engineer - Associate
 * **Udemy**: Java 17 Masterclass, Complete Full-Stack Web Development Bootcamp
 
 ---
@@ -157,9 +155,6 @@ me.intro()
 [![YouTube Intro](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/GOl2rs5-bv4)
 
 <br>
-
-[![Visit Count](https://visitcount.itsvg.in/api?id=VT69&icon=0&color=12)](https://visitcount.itsvg.in)
-
 </div>
 
 ---
